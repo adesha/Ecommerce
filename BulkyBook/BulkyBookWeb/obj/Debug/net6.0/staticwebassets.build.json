@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "jW+LbS6/WAZQRP4LmG8cxQSiU/mGIBhvrhDpcnk8v4M=",
+  "Hash": "/tGxxyr4Xv0jxWwgirDlAbQjfFg8a9UX1eN1iy2rtbM=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\0a3a47cb-7a3d-4db0-8eb1-5554b7474708.PNG",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/products/0a3a47cb-7a3d-4db0-8eb1-5554b7474708.PNG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\0a3a47cb-7a3d-4db0-8eb1-5554b7474708.PNG"
     },
     {
       "Identity": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\0ac89eee-b01a-4a73-a295-f932c6a3ce3a.PNG",
