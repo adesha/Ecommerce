@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/tGxxyr4Xv0jxWwgirDlAbQjfFg8a9UX1eN1iy2rtbM=",
+  "Hash": "RwuP89ucE2Ikf1UBK+LvH36I6ONc5U9ni8Cjw+oJttM=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1120,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "images/lawn_leaf.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\lawn_leaf.jpg"
     },
     {
       "Identity": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\0a3a47cb-7a3d-4db0-8eb1-5554b7474708.PNG",

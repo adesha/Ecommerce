@@ -17,6 +17,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\lawn_leaf.jpg",
+      "PackagePath": "staticwebassets\\images\\lawn_leaf.jpg"
+    },
+    {
       "Id": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\images\\products\\0a3a47cb-7a3d-4db0-8eb1-5554b7474708.PNG",
       "PackagePath": "staticwebassets\\images\\products\\0a3a47cb-7a3d-4db0-8eb1-5554b7474708.PNG"
     },
