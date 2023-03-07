@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "RwuP89ucE2Ikf1UBK+LvH36I6ONc5U9ni8Cjw+oJttM=",
+  "Hash": "CaNM1mmMs5ENdZwyz7Bd+Hp7qCuou+sxbZ5swDiWM4s=",
   "Source": "BulkyBookWeb",
   "BasePath": "_content/BulkyBookWeb",
   "Mode": "Default",
@@ -1256,6 +1256,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\company.js"
+    },
+    {
+      "Identity": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\order.js",
+      "SourceId": "BulkyBookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\",
+      "BasePath": "_content/BulkyBookWeb",
+      "RelativePath": "js/order.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\order.js"
     },
     {
       "Identity": "C:\\Users\\Adesha.Hp\\Desktop\\Udemy\\Asp.Net\\Book\\BulkyBook\\BulkyBookWeb\\wwwroot\\js\\product.js",
